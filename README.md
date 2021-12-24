@@ -1,5 +1,14 @@
 ### <span style="color:blue">Hi there</span> 👋
 
+```
+const name = 'Adriel';
+
+function fn(val) {
+  const newVal = val + 2
+  return newVal;
+}
+```
+
 <!--
 **adrielzarate/adrielzarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
