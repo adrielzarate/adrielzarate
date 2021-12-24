@@ -1,4 +1,4 @@
-### Hi there 👋
+### <span style="color:blue">Hi there</span> 👋
 
 <!--
 **adrielzarate/adrielzarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
