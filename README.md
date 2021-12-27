@@ -6,8 +6,8 @@
 ║                                                           ││            ** OPEN TO WORK **            ││
 ║  » SENIOR FRONTEND DEVELOPER                              │└──────────────────────────────────────────┘│
 ║                                                           │                                            │
-║ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - │      I'm looking for remote positions      │
-║                                                           │       or in-site in The Netherlands.       │
+║ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - │      .......... CONTACT ME ..........      │
+║                                                           │       ..............................       │
 ║   # FROM .................................. NETHERLANDS   │                                            │
 ║   # BORN ........................... MENDOZA| ARGENTINA   │        ╔══════════════════════════╗        │
 ║                                                           │        ║ @adriel_zarate (TWITTER) ║        │
