@@ -24,13 +24,13 @@
 ║  ║  TOOLS .............................. LODASH, RXJS, REDUX, NGRX, EXPRESS, APOLLO, MONGODB  ║
 ║  ║                                                                                            ║
 ║  ║  TESTING ................................................ JASMINE, REACT_TEESTING_LIBRARY  ║
-║  ║                                                                                            ║
-║  ║  UI .......... MATERIAL_UI, ANGULAR_MATERIAL, BOOTSTRAP, TAILWIND_CSS, STORYBOOK, STENCIL  ║
-║  ║                                                                                            ║
-║  ║  DATA_VISUALIZATION .......................... D3JS, FUSION_CHARTS, AM_CHARTS, NG2_CHARTS  ║
-║  ║                                                                                            ║
-║  ║  LEARNING ................................................... RUST, ASM6502, WEB_ASSEMBLY  ║
 ╚══║                                                                                            ║
+   ║  UI .......... MATERIAL_UI, ANGULAR_MATERIAL, BOOTSTRAP, TAILWIND_CSS, STORYBOOK, STENCIL  ║
+   ║                                                                                            ║
+   ║  DATA_VISUALIZATION .......................... D3JS, FUSION_CHARTS, AM_CHARTS, NG2_CHARTS  ║
+   ║                                                                                            ║
+   ║  LEARNING ................................................... RUST, ASM6502, WEB_ASSEMBLY  ║
+   ║                                                                                            ║
    ╚════════════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
