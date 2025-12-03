@@ -1,34 +1,35 @@
 ```
-╔═════════════════════════════════════════════════════════════════════╗
-║ ADRIEL ZARATE                                            ┌────────────────────────────────────────────┐
-╠══════════════════════════════════════════════════════════│                     ***                    │
-║                                                          ├────────────────────────────────────────────┤
-║   » SENIOR FRONTEND DEVELOPER                            │                                            │
-║                                                          │      .......... CONTACT ME ..........      │
-║ - - - - - - - - - - - - - - - - - - - - - - - - - - - - -│       ..............................       │
-║                                                          │                                            │
-║   # FROM .................................. NETHERLANDS  │        ╔══════════════════════════╗        │
-║   # BORN ........................... MENDOZA| ARGENTINA  │        ║ @adriel_zarate (TWITTER) ║        │
-║                                                          │        ╚══════════════════════════╝        │
-║  ╔═══════════════════════════════════════════════════════│                                            │
-║  ║ SKILLS                                                └────────────────────────────────────────────┘
-║  ╠════════════════════════════════════════════════════════════════════════════════════════════╣
-║  ║  LANGUAJES                                                                                 ║
-║  ║     │                                                                                      ║
-║  ║     └─ PROFICIENT .................................... TYPESCRIPT, JAVASCRIPT, CSS, HTML5  ║
-║  ║     │                                                                                      ║
-║  ║     └─ FAMILIAR ........................................................ PYTHON, PHP, SQL  ║
-║  ║                                                                                            ║
-║  ║  JS ............................ ANGULAR, REACTJS, NEXTJS, VUEJS, NUXTJS, NODEJS, GRAPHQL  ║
-║  ║                                                                                            ║
-║  ║  TOOLS .............................. LODASH, RXJS, REDUX, NGRX, EXPRESS, APOLLO, MONGODB  ║
-║  ║                                                                                            ║
-║  ║  TESTING ................................................ JASMINE, REACT_TEESTING_LIBRARY  ║
-╚══║                                                                                            ║
-   ║  UI .......... MATERIAL_UI, ANGULAR_MATERIAL, BOOTSTRAP, TAILWIND_CSS, STORYBOOK, STENCIL  ║
-   ║                                                                                            ║
-   ║  DATA_VISUALIZATION .......................... D3JS, FUSION_CHARTS, AM_CHARTS, NG2_CHARTS  ║
-   ║                                                                                            ║
-   ╚════════════════════════════════════════════════════════════════════════════════════════════╝
-
+╔═════════════════════════════════════╗
+║ ADRIEL ZARATE                       ║
+╠═════════════════════════════════════╣
+║                                     ║
+║  » SENIOR FRONTEND DEVELOPER        ║
+║                                     ║
+║  # FROM .. AMSTERDAM | NETHERLANDS  ║
+║  # BORN .... MENDOZA | ARGENTINA    ║
+║                                     ║
+║ ╔══════════════════════════════════╗║
+║ ║ SKILLS                           ║║
+║ ╠══════════════════════════════════╣║
+║ ║                                  ║║
+║ ║ TECH                             ║║
+║ ║  └─ TypeScript                   ║║
+║ ║  └─ JavaScript                   ║║
+║ ║  └─ Angular                      ║║
+║ ║  └─ CSS                          ║║
+║ ║  └─ HTML5                        ║║
+║ ║  └─ React, Next.js, Redux        ║║
+║ ║  └─ Vue, Nuxt                    ║║
+║ ║  └─ Web components, Stencil      ║║
+║ ║  └─ Polymer, Lit                 ║║
+║ ║  └─ Node, Express, MongoDB       ║║
+║ ║  └─ GraphQL, Apollo              ║║
+║ ║  └─ Unit-Testing                 ║║
+║ ║  └─ Bootstrap, Tailwind, Shadcn  ║║
+║ ║  └─ MaterialUI, Angular Material ║║
+║ ║  └─ Prime React, Prime Angular   ║║
+║ ║  └─ Penpot, Figma, Storybook     ║║
+║ ║  └─ D3.js, FusionChart, AmCharts ║║
+╚═║                                  ║╝
+  ╚══════════════════════════════════╝
 ```
